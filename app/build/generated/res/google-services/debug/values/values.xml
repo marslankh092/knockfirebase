@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">556001815605-77dpbqau55mjogclmhsoib6n5mkn14r1.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://kncok-bfe29-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">556001815605</string>
+    <string name="google_api_key" translatable="false">AIzaSyAAq0qNszokWTCoxmMmUL9Obv3Fa1zpbZY</string>
+    <string name="google_app_id" translatable="false">1:556001815605:android:bcebcf504010132e1f557c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAAq0qNszokWTCoxmMmUL9Obv3Fa1zpbZY</string>
+    <string name="google_storage_bucket" translatable="false">kncok-bfe29.appspot.com</string>
+    <string name="project_id" translatable="false">kncok-bfe29</string>
+</resources>

@@ -1,0 +1,946 @@
+[
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logout.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\logout.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\anim_zoom_out.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\anim\\zoom_out.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_enter.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_qr_bg.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\qr_bg.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_menu.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_close_24.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\ic_baseline_close_24.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_bottom.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_purple_round.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\purple_round.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_tooltip_enter.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\anim\\abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_tag_faces_24.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\ic_baseline_tag_faces_24.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_ad_unified.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\ad_unified.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_help3.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\help3.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_popular_layout.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\popular_layout.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_button_signin_background.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-xhdpi\\button_signin_background.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_emoji3.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\emoji3.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_group_search.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\fragment_group_search.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_micro.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\micro.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_gcover_.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\activity_gcover_.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_download3.gif.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-xhdpi\\download3.gif"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_comment.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_comment.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_out.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_video_upload_final.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\activity_video_upload_final.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_oround.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\oround.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_play_video.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\activity_play_video.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_group.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\fragment_group.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_white_round_grp.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\white_round_grp.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_send_black_24dp.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-xhdpi\\ic_send_black_24dp.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\xml_root_preferences.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\xml\\root_preferences.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_qr_code_2_24.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\ic_baseline_qr_code_2_24.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_grid_image_view.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\layout_grid_image_view.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_group_info.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\activity_group_info.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_main2.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\fragment_main2.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_first_main.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\activity_first_main.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_profile_post_layout.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\profile_post_layout.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_anim3.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\anim3.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_story_send_layout.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\story_send_layout.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\xml_provider_paths.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_play_arrow_black_24dp.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\ic_play_arrow_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_settings_black_24dp.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\ic_settings_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_story.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\add_story.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_chat3.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\chat3.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search_black_24dp.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selected_bg.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\selected_bg.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_add_black_24dp.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-xhdpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_like.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_like.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\anim_profile_enter.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\anim\\profile_enter.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\anim_rg3.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\anim\\rg3.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_send_black_24dp.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-xxhdpi\\ic_send_black_24dp.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_microphone.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-xhdpi\\microphone.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_new_bg.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\new_bg.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icons8camera2.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\icons8camera2.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_message_single_layout.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\message_single_layout.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_video720.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\video720.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_musiclibrary.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\musiclibrary.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\anim_design_snackbar_in.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_account4.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\account4.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mic720.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\mic720.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_global_discover.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\fragment_global_discover.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_camera.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-xhdpi\\camera.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_like_fill.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\ic_like_fill.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_groupname_input.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\groupname_input.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_crop_rotate_white_24dp.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\ic_crop_rotate_white_24dp.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_background2.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\button_background2.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_send.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\send.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_anim1.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\anim1.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_send_black_24dp.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_send_black_24dp.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_videocamera.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\videocamera.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_story_final.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\activity_add_story_final.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_tooltip_exit.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\anim\\abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_user_icon.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-xhdpi\\user_icon.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_border.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\edit_border.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_scan_q_r.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\activity_scan_q_r.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pasword_icon.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-xhdpi\\pasword_icon.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_doc.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-xhdpi\\doc.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_photo.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-xhdpi\\photo.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_button_background.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-xhdpi\\button_background.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_story.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\activity_story.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\anim_no_anim.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\anim\\no_anim.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_group_profile.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\activity_group_profile.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_comment2.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-xhdpi\\comment2.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\menu_grp_menu.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\menu\\grp_menu.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_group_profile_info.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\fragment_group_profile_info.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_status.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\activity_status.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cover.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\activity_cover.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_story.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\activity_add_story.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_emoji500.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\emoji500.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_mainfeed_item_view.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\layout_mainfeed_item_view.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_emoji2.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\emoji2.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_groupchat.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\activity_groupchat.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\anim_rg2.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\anim\\rg2.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_custom_bar.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\chat_custom_bar.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_attach23.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\attach23.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rect_signin.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\rect_signin.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_online_icon.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-xhdpi\\online_icon.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_in.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icons8photogallery.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\icons8photogallery.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_image_upload_final.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\activity_image_upload_final.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_global.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-v21\\global.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_gallery.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\activity_gallery.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_shrink_fade_out_from_bottom.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_layout.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\app_bar_layout.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_camera720.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\camera720.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_comment_layout.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\comment_layout.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_circle_black_24dp.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\ic_add_circle_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_anim2.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\anim2.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_doc2.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-xhdpi\\doc2.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_start.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\start.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_files720.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\files720.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_requests.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\fragment_requests.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_group_image_edit.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\activity_group_image_edit.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\anim_rg.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\anim\\rg.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_arrow_back_ios_24.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-xhdpi\\baseline_arrow_back_ios_24.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_group_users_list.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\fragment_group_users_list.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_deselect.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\deselect.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_settings.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_friend_search.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\activity_friend_search.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_add_black_24dp.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\menu_chat_menu.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\menu\\chat_menu.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rect_orange.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\rect_orange.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_group_settings.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\activity_group_settings.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\font_nunito_bold.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\font\\nunito_bold.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_story_circle.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\story_circle.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_like.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\ic_like.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gallery720.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\gallery720.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_lock2.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\lock2.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\anim_zoom_in.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\anim\\zoom_in.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_anim_main.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\anim_main.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\font_yellowtail.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\font\\yellowtail.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logout3.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\logout3.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_button_login_background.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-xhdpi\\button_login_background.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_top.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\anim_leftfade.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\anim\\leftfade.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_message_black_24dp.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\ic_message_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_place_holder_img.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-xhdpi\\place_holder_img.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_cornor2.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\round_cornor2.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_users_single_layout.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\users_single_layout.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_purple_round2.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\purple_round2.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_add.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-xhdpi\\add.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_settings_layout.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\settings_layout.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_less_round.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\less_round.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_snippet_top_gallery_toolbar.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\snippet_top_gallery_toolbar.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_friends_feeds.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\fragment_friends_feeds.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_story_item.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\story_item.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_post.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\activity_edit_post.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_incognito_chat_mode.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\activity_incognito_chat_mode.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_audio.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\audio.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_users.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\activity_users.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_group_asklist.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\group_asklist.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\menu_override_menu.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\menu\\override_menu.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_discover_main.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\fragment_discover_main.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_req_layout.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\req_layout.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\font_nunito_semibold.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\font\\nunito_semibold.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_audio720.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\audio720.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_group_msg_layout.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\group_msg_layout.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_comment3.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\comment3.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_emoji.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\emoji.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_send_white_24dp.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\ic_send_white_24dp.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_orange_round2.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\orange_round2.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notifications_active_black_24dp.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\ic_notifications_active_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash_bg.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\splash_bg.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_default_avatar.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-xhdpi\\default_avatar.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_heart_border.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-xhdpi\\ic_heart_border.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_heart_on.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\heart_on.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\anim_nothing.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\anim\\nothing.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_email_icon.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-xhdpi\\email_icon.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_qrcode_main.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\activity_qrcode_main.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_add_black_24dp.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_edit_black_24dp.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\ic_edit_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_codefile.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\codefile.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_attach_file_24.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\ic_baseline_attach_file_24.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_orange_round.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\orange_round.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_top.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_chatactivity.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\bg_chatactivity.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_in.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_group_invite.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\activity_group_invite.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_emoji6.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\emoji6.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_friends.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\fragment_friends.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_add_black_24dp.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_video.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-xhdpi\\video.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close_purple_24dp.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\ic_close_purple_24dp.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_group_black_24dp.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\ic_group_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_start.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_default_send_image.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-xhdpi\\default_send_image.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon2.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\icon2.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\anim_profile_exit.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\anim\\profile_exit.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_sugg.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\background_sugg.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_story.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\activity_edit_story.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\anim_rightfade.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\anim\\rightfade.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_heart_off.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\heart_off.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_heart_red.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-xhdpi\\ic_heart_red.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_exit.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_menu.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\menu\\bottom_menu.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_suggestion_layout.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\suggestion_layout.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_grp_user_list_layout.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\grp_user_list_layout.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile_grad.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\profile_grad.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app4.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\app4.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_out.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_profile_create_dialog.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\profile_create_dialog.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_bar_top.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\app_bar_top.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\anim_design_snackbar_out.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_white_round.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\white_round.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_bottom.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_chats.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\fragment_chats.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logout2.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\logout2.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_send_black_24dp.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-mdpi\\ic_send_black_24dp.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_audio.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-xhdpi\\audio.png"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\menu_discover_bottom_menu.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\menu\\discover_bottom_menu.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rect_gray.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\rect_gray.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_imageview.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\activity_imageview.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_verifing.gif.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-xhdpi\\verifing.gif"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_black_24dp.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\ic_add_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_current_profile.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\activity_current_profile.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pause_black_24dp.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\ic_pause_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_friend_search.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\fragment_friend_search.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_settings_activity.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\layout\\settings_activity.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round.xml.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable\\round.xml"
+    },
+    {
+        "merged": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_location.png.flat",
+        "source": "D:\\firebase\\Knock-Knock-Firebase-Messenger-main\\app\\src\\main\\res\\drawable-xhdpi\\location.png"
+    }
+]

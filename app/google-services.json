@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "556001815605",
+    "firebase_url": "https://kncok-bfe29-default-rtdb.firebaseio.com",
+    "project_id": "kncok-bfe29",
+    "storage_bucket": "kncok-bfe29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556001815605:android:bcebcf504010132e1f557c",
+        "android_client_info": {
+          "package_name": "in.macro.codes.Kncok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556001815605-77dpbqau55mjogclmhsoib6n5mkn14r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAq0qNszokWTCoxmMmUL9Obv3Fa1zpbZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556001815605-2j2dp5dm13jsvuc8qbtn0nseuiedvl2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
